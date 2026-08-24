@@ -1,0 +1,35 @@
+.etiqueta {
+    -fx-font-family: "IMPACT";
+}
+.campo {
+    -fx-border-color: #2E7D32;
+    -fx-border-width: 2px;
+    -fx-background-color: white;
+    -fx-text-fill: #2E7D32;
+    -fx-border-radius: 3px;
+}
+.link {
+    -fx-font-size: 15px;
+    -fx-font-family: "IMPACT";
+    -fx-text-fill: #2E7D32;
+}
+.link:hover {
+    -fx-text-fill: #1B5E20;
+}
+.link:pressed {
+    -fx-text-fill: #0D3B0D;
+}
+#btn-login {
+    -fx-font-family: "IMPACT";
+    -fx-background-color: #2E7D32;
+    -fx-border-color: #2E7D32;
+    -fx-text-fill: white;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 10px;
+    -fx-padding: 8px 20px;
+}
+#btn-login:hover {
+    -fx-background-color: #43A047;
+    -fx-border-color: #43A047;
+    -fx-cursor: hand;
+}
